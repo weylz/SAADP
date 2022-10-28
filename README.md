@@ -2,9 +2,7 @@
 
 - [Sequence Alignment Algorithm - Dynamic Programming](#sequence-alignment-algorithm---dynamic-programming)
   - [Installation](#installation)
-      - [*To use the current release.*](#to-use-the-current-release)
   - [Getting Started](#getting-started)
-      - [*Try this program locally.*](#try-this-program-locally)
   - [License](#license)
 
 ## Installation
