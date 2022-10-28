@@ -9,14 +9,14 @@
 
 ## Installation
 
-#### *To use the current release.*
+#### *To use the current release*
 ```shell
 $ pip install pywebio
 $ pip install biopython
 ```
 
 ## Getting Started
-#### *Try this program locally.*
+#### *Try this program locally*
 ```shell
 $ python SAADP.py
 ```
