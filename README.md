@@ -1,6 +1,7 @@
 # Sequence Alignment Algorithm - Dynamic Programming
 
 - [Sequence Alignment Algorithm - Dynamic Programming](#sequence-alignment-algorithm---dynamic-programming)
+- 
   - [Installation](#installation)
   - [Getting Started](#getting-started)
   - [License](#license)
