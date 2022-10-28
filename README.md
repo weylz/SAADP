@@ -1,3 +1,21 @@
 # Sequence Alignment Algorithm - Dynamic Programming
 
+## Installation
 
+#### *To use the current release:*
+```shell
+$ pip install pywebio
+$ pip install biopython
+```
+
+## Getting Started
+#### *Try this program locally:*
+```shell
+$ python SAADP.py
+```
+###### Visit the website: [http://127.0.0.1:7698](http://127.0.0.1:7698) or [localhost:7698](localhost:7698)
+
+## License
+###### None
+
+##### SAADP version 1.0.1 © weylz 2022. All rights reserved.
