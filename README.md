@@ -1,4 +1,4 @@
-# Sequence Alignment Algorithm - Dynamic Programming
+# SAADP [Sequence Alignment Algorithm - Dynamic Programming]
 
 - [Sequence Alignment Algorithm - Dynamic Programming](#sequence-alignment-algorithm---dynamic-programming)
 
