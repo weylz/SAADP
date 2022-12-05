@@ -1,4 +1,4 @@
-# SAADP [Sequence Alignment Algorithm - Dynamic Programming]
+# SAADP
 
 - [Sequence Alignment Algorithm - Dynamic Programming](#sequence-alignment-algorithm---dynamic-programming)
 
@@ -28,4 +28,4 @@ $ python SAADP.py
 ## License
 None
 
-**SAADP version 1.0.1 © weylz 2022. All rights reserved.**
+**SAADP   © weylz 2022. All rights reserved.**
