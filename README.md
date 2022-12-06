@@ -1,12 +1,11 @@
 # SAADP
 
-- [Sequence Alignment Algorithm - Dynamic Programming](#sequence-alignment-algorithm---dynamic-programming)
-
-  - [Installation](#installation)
-  - [Getting Started](#getting-started)
+- [SAADP](#saadp)
+  - [Preparation](#preparation)
+  - [Usage](#usage)
   - [License](#license)
 
-## Installation
+## Preparation
 
 *To use the current release*
 
@@ -15,7 +14,7 @@ $ pip install pywebio
 $ pip install biopython
 ```
 
-## Getting Started
+## Usage
 
 *Try this program locally*
 
