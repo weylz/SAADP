@@ -1,11 +1,11 @@
 # SAADP
 
 - [SAADP](#saadp)
-  - [Preparation](#preparation)
+  - [Requirement](#requirement)
   - [Usage](#usage)
   - [License](#license)
 
-## Preparation
+## Requirement
 
 *To use the current release*
 
