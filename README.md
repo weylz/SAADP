@@ -22,9 +22,9 @@ $ pip install biopython
 $ python SAADP.py
 ```
 
-*Then visit the website:* **[http://127.0.0.1:7698](http://127.0.0.1:7698)** *or* **[http://localhost:7698](http://localhost:7698).**
+*Then visit the website:* **[http://127.0.0.1:8080](http://127.0.0.1:8080)** *or* **[http://localhost:8080](http://localhost:8080).**
 
 ## License
 None
 
-**SAADP   © weylz 2022. All rights reserved.**
+**SAADP   © weylz 2023. All rights reserved.**
