@@ -24,7 +24,7 @@ $ python SAADP.py
 
 *Then visit the website:* **[http://127.0.0.1:8080](http://127.0.0.1:8080)** *or* **[http://localhost:8080](http://localhost:8080).**
 
-*Try* **[http://bioinfo.seu.edu.cn:7237](http://bioinfo.seu.edu.cn:7237)**.
+*Try an example:* **[http://bioinfo.seu.edu.cn:7237](http://bioinfo.seu.edu.cn:7237)**.
 
 ## License
 ...
